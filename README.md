@@ -1,4 +1,4 @@
-JSER Matlab Code
+# TNNLS-2022-GER-Codes
 
 This package contains the source code for the following paper:
 
